@@ -6,6 +6,7 @@ Actual mente estudio Programacion
 
 Tengo 24 anos de edad
 
-main 1 
+experimento 1
 
+main 1 
 main 2
